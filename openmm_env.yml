@@ -1,0 +1,39 @@
+name: openmm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
+  - ca-certificates=2021.10.8=ha878542_0
+  - certifi=2021.10.8=py37h89c1867_1
+  - cudatoolkit=10.1.243=h036e899_8
+  - fftw=3.3.10=nompi_h77c792f_102
+  - ld_impl_linux-64=2.35.1=h7274673_9
+  - libblas=3.9.0=13_linux64_openblas
+  - libcblas=3.9.0=13_linux64_openblas
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=11.2.0=h1d223b6_13
+  - libgfortran-ng=11.2.0=h69a702a_13
+  - libgfortran5=11.2.0=h5c6108e_13
+  - libgomp=11.2.0=h1d223b6_13
+  - liblapack=3.9.0=13_linux64_openblas
+  - libopenblas=0.3.18=pthreads_h8fe5266_0
+  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - ncurses=6.3=h7f8727e_2
+  - numpy=1.20.3=py37h038b26d_1
+  - ocl-icd=2.3.1=h7f98852_0
+  - ocl-icd-system=1.0.0=1
+  - openmm=7.6.0=py37hd49da16_0
+  - openssl=1.1.1l=h7f98852_0
+  - pip=21.2.2=py37h06a4308_0
+  - python=3.7.11=h12debd9_0
+  - python_abi=3.7=2_cp37m
+  - readline=8.1.2=h7f8727e_1
+  - setuptools=58.0.4=py37h06a4308_0
+  - sqlite=3.38.0=hc218d9a_0
+  - tk=8.6.11=h1ccaba5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7f8727e_4
+prefix: /home/dhn/anaconda3/envs/openmm
